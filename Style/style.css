@@ -1,0 +1,9 @@
+
+.nav{
+    display: flex;
+}
+
+.Nav-title{
+    font-weight: 700;
+    font-size: 2rem;
+}
